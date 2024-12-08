@@ -74,8 +74,9 @@ This approach simplifies the management of diverse shapes, enabling the program 
 
 
 here are samples:
-![Аннотация 2024-12-08 212409](https://github.com/user-attachments/assets/13ba4f95-d78c-49c5-aba7-c803b43199ef)
-![Аннотация 2024-12-08 212425](https://github.com/user-attachments/assets/2371de2b-6d46-459e-8505-6ae1ddc6f0d8)
+![Аннотация 2024-12-08 212409](https://github.com/user-attachments/assets/7238c72b-2482-4c64-8403-ee31274de792)
+![Аннотация 2024-12-08 212425](https://github.com/user-attachments/assets/960563a2-f739-4a53-8f8b-c8a67ebc5bff)
+
 
 
 
